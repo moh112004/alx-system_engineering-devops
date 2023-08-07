@@ -11,3 +11,33 @@ total 44
 4 -rw-r--r-- 1 root root 44 Aug  7 01:35 iacta
 0 -rw-r--r-- 1 root root  0 Aug  7 01:37 ls_cwd_content
 4 -rw-r--r-- 1 root root  7 Aug  7 01:35 README.md
+total 56
+4 -rwxr-xr-x 1 root root  30 Aug  7 01:35 0-hello_world
+4 -rwxr-xr-x 1 root root  48 Aug  7 02:18 10-no_more_js
+4 -rwxr-xr-x 1 root root  27 Aug  7 01:35 1-confused_smiley
+4 -rwxr-xr-x 1 root root  33 Aug  7 01:35 2-hellofile
+4 -rwxr-xr-x 1 root root  49 Aug  7 01:35 3-twofiles
+4 -rwxr-xr-x 1 root root  40 Aug  7 02:55 4-lastlines
+4 -rwxr-xr-x 1 root root  40 Aug  7 02:55 5-firstlines
+4 -rwxr-xr-x 1 root root  40 Aug  7 01:35 6-third_line
+4 -rwxr-xr-x 1 root root  12 Aug  7 01:35 7-file
+4 -rwxr-xr-x 1 root root  38 Aug  7 02:55 8-cwd_state
+4 -rwxr-xr-x 1 root root  38 Aug  7 02:18 9-duplicate_last_line
+4 -rw-r--r-- 1 root root  54 Aug  7 01:41 iacta
+4 -rw-r--r-- 1 root root 644 Aug  7 01:37 ls_cwd_content
+4 -rw-r--r-- 1 root root   7 Aug  7 01:35 README.md
+total 56
+4 -rwxr-xr-x 1 root root   30 Aug  7 01:35 0-hello_world
+4 -rwxr-xr-x 1 root root   48 Aug  7 02:18 10-no_more_js
+4 -rwxr-xr-x 1 root root   27 Aug  7 01:35 1-confused_smiley
+4 -rwxr-xr-x 1 root root   33 Aug  7 01:35 2-hellofile
+4 -rwxr-xr-x 1 root root   49 Aug  7 01:35 3-twofiles
+4 -rwxr-xr-x 1 root root   40 Aug  7 02:55 4-lastlines
+4 -rwxr-xr-x 1 root root   40 Aug  7 02:55 5-firstlines
+4 -rwxr-xr-x 1 root root   40 Aug  7 01:35 6-third_line
+4 -rwxr-xr-x 1 root root   12 Aug  7 01:35 7-file
+4 -rwxr-xr-x 1 root root   38 Aug  7 02:55 8-cwd_state
+4 -rwxr-xr-x 1 root root   38 Aug  7 02:18 9-duplicate_last_line
+4 -rw-r--r-- 1 root root   54 Aug  7 01:41 iacta
+4 -rw-r--r-- 1 root root 1420 Aug  7 02:55 ls_cwd_content
+4 -rw-r--r-- 1 root root    7 Aug  7 01:35 README.md
